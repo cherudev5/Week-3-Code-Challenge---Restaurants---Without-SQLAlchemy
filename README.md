@@ -32,9 +32,10 @@ You need to have test data and models for the initial `Restaurant` and `Customer
 
 The schema currently looks like this: 
 ### restaurants table
-column  type
-name    string
-price   integer
+|column| type|
+|:.....|:.....|
+|name|    |string|
+|price|   |integer|
 ### customers Table
 column      type
 first_name  string
