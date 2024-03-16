@@ -33,34 +33,17 @@ You need to have test data and models for the initial `Restaurant` and `Customer
 The schema currently looks like this: 
 ### restaurants table
 
-Column
-
-Type
-
-name
-
-String
-
-price
-
-Integer
-
+|Column|Type|
+|------|-----|
+|name|String|
+|price|Integer|
 
 ### customers Table
 
-|Column|
-|------|
-|Type|
-
-first_name
-
-String
-
-last_name
-
-String
-
-
+|Column|Type|
+|------|-----|
+|first_name|String|
+|last_name|String|
 
 ## Deliverables
 Write the following methods in the classes. Feel free to build out any helper methods if needed.
