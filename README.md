@@ -48,9 +48,9 @@ Integer
 
 ### customers Table
 
-Column
-
-Type
+|Column|
+|------|
+|Type|
 
 first_name
 
